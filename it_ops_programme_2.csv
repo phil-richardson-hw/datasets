@@ -1,11 +1,17 @@
-sort,category,task,start,end,text,xOffset,yOffset
-1,Y,Key Milestones,2024-10-01,2024-10-01,FY24,,-100
-1,Q,Key Milestones,2024-10-01,2024-10-01,Q1,,-80
-1,Q,Key Milestones,2025-01-01,2025-01-01,Q2,,-80
-1,Q,Key Milestones,2025-04-01,2025-04-01,Q3,,-80
-1,Q,Key Milestones,2025-07-01,2025-07-01,Q4,,-80
-2,P,Project A,2024-10-01,2025-09-30,,,
-3,P,Project B,2024-11-01,2024-12-02,,,
-4,P,Project C,2024-10-01,2024-12-28,,,
-5,M,Key Milestones,2024-11-24,2024-11-24,Bedford\nClosure,10,-25
-5,M,Key Milestones,2024-12-12,2024-12-12,DC On-net\nGlobal Comms,10,25
+sort,category,task,start,end,text,textAlign,xOffset,yOffset
+1,Y,Key Milestones,2024-10-01,2024-10-01,FY24/25,,,-100
+1,Q,Key Milestones,2024-10-01,2024-10-01,Q1,,,-80
+1,Q,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80
+1,Q,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80
+1,Q,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80
+2,P,Project A,2024-10-01,2025-09-30,,,,
+3,P,Project B,2024-11-01,2024-12-02,,,,
+4,P,Project C,2024-10-01,2024-12-28,,,,
+5,M,Key Milestones,2024-11-24,2024-11-24,Bedford\nClosure,right,-15,-35
+5,M,Key Milestones,2024-12-11,2024-12-11,DC On-net\nGlobal Comms,right,-15,0
+5,M,Key Milestones,2024-12-16,2024-12-16,T - Comms out SD,right,-15,35
+5,M,Key Milestones,2024-12-20,2024-12-20,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35
+5,M,Key Milestones,2025-02-28,2025-02-28,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-15,0
+5,M,Key Milestones,2025-01-27,2025-01-27,CQ – Migration Starts,left,10,35
+5,M,Key Milestones,2025-03-21,2025-03-21,Complete DEX POC,right,-15,-35
+5,M,Key Milestones,2025-04-15,2025-04-15,CN - VM  support expires,left,10,0
