@@ -4,7 +4,7 @@ sort,category,task,start,end,text,textAlign,xOffset,yOffset,color,status
 1,Q,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80,,
 1,Q,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80,,
 1,Q,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80,,
-2,P,Dependencies,2024-10-01,2024-10-01,,,,,,
+2,P,Dependencies,2024-10-01,2025-09-30,,,,,,
 3,P,Project A,2024-10-01,2025-09-30,,,,,"rgba(59, 204, 194, 0.4)",On Plan
 4,P,Project B,2024-11-01,2024-12-02,,,,,"rgba(59, 204, 194, 0.4)",On Hold
 5,P,Project C,2024-10-01,2024-12-28,,,,,"rgba(59, 204, 194, 0.4)",Completed
