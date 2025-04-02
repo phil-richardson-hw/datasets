@@ -1,17 +1,17 @@
-sort,category,task,start,end,text,textAlign,xOffset,yOffset
-1,Y,Key Milestones,2024-10-01,2024-10-01,FY24/25,,,-100
-1,Q,Key Milestones,2024-10-01,2024-10-01,Q1,,,-80
-1,Q,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80
-1,Q,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80
-1,Q,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80
-2,P,Project A,2024-10-01,2025-09-30,,,,
-3,P,Project B,2024-11-01,2024-12-02,,,,
-4,P,Project C,2024-10-01,2024-12-28,,,,
-5,M,Key Milestones,2024-11-24,2024-11-24,Bedford\nClosure,right,-15,-35
-5,M,Key Milestones,2024-12-11,2024-12-11,DC On-net\nGlobal Comms,right,-15,0
-5,M,Key Milestones,2024-12-16,2024-12-16,T - Comms out SD,right,-15,35
-5,M,Key Milestones,2024-12-20,2024-12-20,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35
-5,M,Key Milestones,2025-02-28,2025-02-28,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-15,0
-5,M,Key Milestones,2025-01-27,2025-01-27,CQ – Migration Starts,left,10,35
-5,M,Key Milestones,2025-03-21,2025-03-21,Complete DEX POC,right,-15,-35
-5,M,Key Milestones,2025-04-15,2025-04-15,CN - VM  support expires,left,10,0
+sort,category,task,start,end,text,textAlign,xOffset,yOffset,color
+1,Y,Key Milestones,01/10/2024,01/10/2024,FY24/25,,,-100,
+1,Q,Key Milestones,01/10/2024,01/10/2024,Q1,,,-80,
+1,Q,Key Milestones,01/01/2025,01/01/2025,Q2,,,-80,
+1,Q,Key Milestones,01/04/2025,01/04/2025,Q3,,,-80,
+1,Q,Key Milestones,01/07/2025,01/07/2025,Q4,,,-80,
+2,P,Project A,01/10/2024,30/09/2025,,,,,
+3,P,Project B,01/11/2024,02/12/2024,,,,,
+4,P,Project C,01/10/2024,28/12/2024,,,,,
+5,M,Key Milestones,24/11/2024,24/11/2024,Bedford\nClosure,right,-10,-35,#DC000F
+5,M,Key Milestones,11/12/2024,11/12/2024,DC On-net\nGlobal Comms,right,-10,0,#0857C3
+5,M,Key Milestones,16/12/2024,16/12/2024,T - Comms out SD,right,-10,35,#0857C3
+5,M,Key Milestones,20/12/2024,20/12/2024,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35,#FAAA00
+5,M,Key Milestones,28/02/2025,28/02/2025,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-10,0,#9D9D9D
+5,M,Key Milestones,27/01/2025,27/01/2025,CQ – Migration Starts,left,10,35,#9D9D9D
+5,M,Key Milestones,21/03/2025,21/03/2025,Complete DEX POC,right,-10,-35,#9D9D9D
+5,M,Key Milestones,15/04/2025,15/04/2025,CN - VM  support expires,left,10,0,#9D9D9D
