@@ -4,9 +4,9 @@ sort,category,task,start,end,text,textAlign,xOffset,yOffset,color
 1,Q,Key Milestones,01/01/2025,01/01/2025,Q2,,,-80,
 1,Q,Key Milestones,01/04/2025,01/04/2025,Q3,,,-80,
 1,Q,Key Milestones,01/07/2025,01/07/2025,Q4,,,-80,
-2,P,Project A,01/10/2024,30/09/2025,,,,,rgba(59, 204, 194, 0.4)
-3,P,Project B,01/11/2024,02/12/2024,,,,,rgba(59, 204, 194, 0.4)
-4,P,Project C,01/10/2024,28/12/2024,,,,,rgba(59, 204, 194, 0.4)
+2,P,Project A,01/10/2024,30/09/2025,,,,,"rgba(59, 204, 194, 0.4)"
+3,P,Project B,01/11/2024,02/12/2024,,,,,"rgba(59, 204, 194, 0.4)"
+4,P,Project C,01/10/2024,28/12/2024,,,,,"rgba(59, 204, 194, 0.4)"
 5,M,Key Milestones,24/11/2024,24/11/2024,Bedford\nClosure,right,-10,-35,#DC000F
 5,M,Key Milestones,11/12/2024,11/12/2024,DC On-net\nGlobal Comms,right,-10,0,#0857C3
 5,M,Key Milestones,16/12/2024,16/12/2024,T - Comms out SD,right,-10,35,#0857C3
