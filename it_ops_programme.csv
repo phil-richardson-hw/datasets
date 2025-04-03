@@ -1,22 +1,26 @@
 sort,category,work_stream,task,start,end,text,textAlign,xOffset,yOffset,color,status
-1,Y,,Key Milestones,2024-10-01,2024-10-01,FY24/25,,,-100,,
-1,Q,,Key Milestones,2024-10-01,2024-10-01,Q1,,,-80,,
-1,Q,,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80,,
-1,Q,,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80,,
-1,Q,,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80,,
-2,P,,Dependencies,2024-10-01,2025-09-30,,,,,,
-3,P,End User Computing,Project A,2024-10-01,2025-09-30,,,,,"rgba(59, 204, 194, 0.4)",On Plan
-4,P,End User Computing,Project B,2024-11-01,2024-12-02,,,,,"rgba(59, 204, 194, 0.4)",On Hold
-5,P,Workplace Services,Project C,2024-10-01,2024-12-28,,,,,"rgba(59, 204, 194, 0.4)",Completed
-100,M,,Key Milestones,2024-11-24,2024-11-24,Bedford\nClosure,right,-10,-35,#DC000F,Completed
-100,M,,Key Milestones,2024-12-11,2024-12-11,DC On-net\nGlobal Comms,right,-10,0,#0857C3,Completed
-100,M,,Key Milestones,2024-12-16,2024-12-16,T - Comms out SD,right,-10,35,#0857C3,Completed
-100,M,,Key Milestones,2024-12-20,2024-12-20,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35,#FAAA00,Completed
-100,M,,Key Milestones,2025-02-28,2025-02-28,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-10,0,#9D9D9D,Completed
-100,M,,Key Milestones,2025-01-27,2025-01-27,CQ – Migration Starts,left,10,35,#9D9D9D,Completed
-100,M,,Key Milestones,2025-03-21,2025-03-21,Complete DEX POC,right,-10,-35,#9D9D9D,At Risk
-100,M,,Key Milestones,2025-04-15,2025-04-15,CN - VM  support expires,left,10,0,#9D9D9D,At Risk
-100,M,,Key Milestones,2025-05-09,2025-05-09,CN – Final Business\nComms out,right,-10,-35,#9D9D9D,At Risk
-100,M,,Key Milestones,2025-07-30,2025-07-30, T - Implement full\npatching  software\nManagement,right,-10,-35,#9D9D9D,At Risk
-100,M,,Key Milestones,2025-09-12,2025-09-12, T – Replace Tenable,right,-10,0,#9D9D9D,At Risk
-100,L,,Dependencies,2024-10-01,2024-10-01,Tiger Risk -dependency from third parties and the operational team in completing activities,left,10,0,,
+1,Y,,Key Milestones,01/10/2024,01/10/2024,FY24/25,,,-100,,
+1,Q,,Key Milestones,01/10/2024,01/10/2024,Q1,,,-80,,
+1,Q,,Key Milestones,01/01/2025,01/01/2025,Q2,,,-80,,
+1,Q,,Key Milestones,01/04/2025,01/04/2025,Q3,,,-80,,
+1,Q,,Key Milestones,01/07/2025,01/07/2025,Q4,,,-80,,
+2,P,,Dependencies,01/10/2024,30/09/2025,,,,,,
+3,P,End User Computing,Laptop Replacement,01/10/2024,30/09/2025,,,,,"rgba(59, 204, 194, 0.4)",On Plan
+4,P,End User Computing,Oak Tree,01/10/2024,28/12/2024,,,,,"rgba(8, 87, 195, 0.4)",Closed
+5,P,End User Computing,Cloud Print,01/10/2024,14/10/2024,,,,,"rgba(8, 87, 195, 0.4)",Closed
+6,P,End User Computing,Windows 365,01/10/2024,15/11/2024,,,,,"rgba(8, 87, 195, 0.4)",Closed
+7,P,Workplace Services,Application Virtualisation,01/10/2024,30/09/2025,,,,,"rgba(59, 204, 194, 0.4)",On Plan
+8,P,Workplace Services,COLO Nutanix,01/10/2024,30/09/2025,,,,,"rgba(59, 204, 194, 0.4)",On Plan
+9,P,Workplace Services,SCCM Tanium,01/10/2024,30/09/2025,,,,,"rgba(59, 204, 194, 0.4)",On Plan
+100,M,,Key Milestones,24/11/2024,24/11/2024,Bedford\nClosure,right,-10,-35,#DC000F,Completed
+100,M,,Key Milestones,11/12/2024,11/12/2024,DC On-net\nGlobal Comms,right,-10,0,#0857C3,Completed
+100,M,,Key Milestones,16/12/2024,16/12/2024,T - Comms out SD,right,-10,35,#0857C3,Completed
+100,M,,Key Milestones,20/12/2024,20/12/2024,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35,#FAAA00,Completed
+100,M,,Key Milestones,28/02/2025,28/02/2025,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-10,0,#9D9D9D,Completed
+100,M,,Key Milestones,27/01/2025,27/01/2025,CQ – Migration Starts,left,10,35,#9D9D9D,Completed
+100,M,,Key Milestones,21/03/2025,21/03/2025,Complete DEX POC,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,15/04/2025,15/04/2025,CN - VM  support expires,left,10,0,#9D9D9D,At Risk
+100,M,,Key Milestones,09/05/2025,09/05/2025,CN – Final Business\nComms out,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,30/07/2025,30/07/2025, T - Implement full\npatching  software\nManagement,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,12/09/2025,12/09/2025, T – Replace Tenable,right,-10,0,#9D9D9D,At Risk
+100,L,,Dependencies,01/10/2024,01/10/2024,Tiger Risk -dependency from third parties and the operational team in completing activities,left,10,0,,
