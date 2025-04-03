@@ -1,17 +1,22 @@
-sort,category,task,start,end,text,textAlign,xOffset,yOffset
-1,Y,Key Milestones,2024-10-01,2024-10-01,FY24/25,,,-100
-1,Q,Key Milestones,2024-10-01,2024-10-01,Q1,,,-80
-1,Q,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80
-1,Q,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80
-1,Q,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80
-2,P,Project A,2024-10-01,2025-09-30,,,,
-3,P,Project B,2024-11-01,2024-12-02,,,,
-4,P,Project C,2024-10-01,2024-12-28,,,,
-5,M,Key Milestones,2024-11-24,2024-11-24,Bedford\nClosure,right,-15,-35
-5,M,Key Milestones,2024-12-11,2024-12-11,DC On-net\nGlobal Comms,right,-15,0
-5,M,Key Milestones,2024-12-16,2024-12-16,T - Comms out SD,right,-15,35
-5,M,Key Milestones,2024-12-20,2024-12-20,TCQ & TE-  Comms update\nout on GL live schedules,left,10,-35
-5,M,Key Milestones,2025-02-28,2025-02-28,T - Implement Asset Management\n28 Feb Replace  SNOW ,right,-15,0
-5,M,Key Milestones,2025-01-27,2025-01-27,CQ – Migration Starts,left,10,35
-5,M,Key Milestones,2025-03-21,2025-03-21,Complete DEX POC,right,-15,-35
-5,M,Key Milestones,2025-04-15,2025-04-15,CN - VM  support expires,left,10,0
+sort,category,work_stream,task,start,end,text,textAlign,xOffset,yOffset,color,status
+1,Y,,Key Milestones,2024-10-01,2024-10-01,FY24/25,,,-100,,
+1,Q,,Key Milestones,2024-10-01,2024-10-01,Q1,,,-80,,
+1,Q,,Key Milestones,2025-01-01,2025-01-01,Q2,,,-80,,
+1,Q,,Key Milestones,2025-04-01,2025-04-01,Q3,,,-80,,
+1,Q,,Key Milestones,2025-07-01,2025-07-01,Q4,,,-80,,
+2,P,,Dependencies,2024-10-01,2025-09-30,,,,,,
+3,P,End User Computing,Project A,2024-10-01,2025-09-30,,,,,"rgba(59, 204, 194, 0.4)",On Plan
+4,P,End User Computing,Project B,2024-11-01,2024-12-02,,,,,"rgba(59, 204, 194, 0.4)",On Hold
+5,P,Workplace Services,Project C,2024-10-01,2024-12-28,,,,,"rgba(59, 204, 194, 0.4)",Completed
+100,M,,Key Milestones,2024-11-24,2024-11-24,Milestone 1,right,-10,-35,#DC000F,Completed
+100,M,,Key Milestones,2024-12-11,2024-12-11,Milestone 2,right,-10,0,#0857C3,Completed
+100,M,,Key Milestones,2024-12-16,2024-12-16,Milestone 3,right,-10,35,#0857C3,Completed
+100,M,,Key Milestones,2024-12-20,2024-12-20,Milestone 4,left,10,-35,#FAAA00,Completed
+100,M,,Key Milestones,2025-02-28,2025-02-28,Milestone 5,right,-10,0,#9D9D9D,Completed
+100,M,,Key Milestones,2025-01-27,2025-01-27,Milestone 6,left,10,35,#9D9D9D,Completed
+100,M,,Key Milestones,2025-03-21,2025-03-21,Milestone 7,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,2025-04-15,2025-04-15,Milestone 8,left,10,0,#9D9D9D,At Risk
+100,M,,Key Milestones,2025-05-09,2025-05-09,Milestone 9,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,2025-07-30,2025-07-30,Milestone 10,right,-10,-35,#9D9D9D,At Risk
+100,M,,Key Milestones,2025-09-12,2025-09-12,Milestone 11,right,-10,0,#9D9D9D,At Risk
+100,L,,Dependencies,2024-10-01,2024-10-01,Dependency 1,left,10,0,,
